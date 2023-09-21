@@ -6,4 +6,5 @@ function draw() {
   background(220);
   
   rect(width/2,20,20,20);
+  circle(mouseX,mouseY,20);
 }
