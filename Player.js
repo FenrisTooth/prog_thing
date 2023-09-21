@@ -91,7 +91,7 @@ class Player{
          
       this.dir.setMag(0.05);
       this.vel.add(this.dir);
-      this.vel.limit(5000000000);
+      this.vel.limit(5);
       
          
        }

@@ -1,3 +1,4 @@
+
 function setup() {
   angleMode(DEGREES);
   createCanvas(400, 600);
@@ -16,5 +17,6 @@ function draw() {
 
   Player.update();
   Player.show();
+
 
 }
